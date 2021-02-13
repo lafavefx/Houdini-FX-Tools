@@ -4,4 +4,4 @@ Tools development related to Houdini FX
 
 ## Subheader
 
-Planning to organize several Houdini-related tools as SubTrees below
+Planning to organize several Houdini-related tools as SubTrees within
